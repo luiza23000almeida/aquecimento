@@ -53,6 +53,7 @@ header p{
 nav{
     background-color:var(--cor0) ;
     padding:1%;
+    margin: 0px;
 }
 
 nav a{
